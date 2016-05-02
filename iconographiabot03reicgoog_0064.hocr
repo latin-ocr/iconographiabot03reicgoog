@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconographiabot03reicgoog_0064.png"; bbox 0 0 1231 1617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 191 201 1017 216">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 191 201 1017 216">
+     <span class='ocr_line' id='line_1_1' title="bbox 191 201 1017 216; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 191 201 296 214; x_wconf 52' lang='lat' dir='ltr'><em>(nat-accan</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 920 202 1017 216; x_wconf 58' lang='lat' dir='ltr'><em>effers(</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 265 1190 884 1329">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 265 1190 884 1329">
+     <span class='ocr_line' id='line_1_2' title="bbox 265 1190 884 1329; baseline 0 288"><span class='ocrx_word' id='word_1_3' title='bbox 265 1190 884 1329; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 411 1366 776 1402">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 411 1366 776 1402">
+     <span class='ocr_line' id='line_1_3' title="bbox 411 1366 776 1402; baseline 0.005 -2"><span class='ocrx_word' id='word_1_4' title='bbox 411 1366 524 1401; x_wconf 49' lang='lat' dir='ltr'><em>“asam</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 549 1369 695 1401; x_wconf 45' lang='lat' dir='ltr'><em>Aram</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 711 1399 714 1402; x_wconf 23' lang='grc' dir='ltr'><strong>Δ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 728 1388 776 1402; x_wconf 56' lang='grc' dir='ltr'><em>ωι.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 179 1412 1005 1425">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 179 1412 1005 1425">
+     <span class='ocr_line' id='line_1_4' title="bbox 179 1412 1005 1425; baseline 0.001 -3"><span class='ocrx_word' id='word_1_8' title='bbox 179 1413 187 1421; x_wconf 77' lang='grc' dir='ltr'><em>ι</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 195 1412 270 1422; x_wconf 55' lang='lat' dir='ltr'><em>mamas.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 882 1414 899 1424; x_wconf 67' lang='lat' dir='ltr'><em>a</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 904 1422 907 1424; x_wconf 93' lang='lat'>.</span> <span class='ocrx_word' id='word_1_12' title='bbox 912 1414 981 1425; x_wconf 59' lang='lat' dir='ltr'><em>sannam.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 987 1417 1005 1424; x_wconf 52' lang='lat' dir='ltr'><em>,sf-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1043 1442 1231 1593">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1043 1442 1231 1593">
+     <span class='ocr_line' id='line_1_5' title="bbox 1043 1442 1231 1593; baseline 0 24"><span class='ocrx_word' id='word_1_14' title='bbox 1043 1442 1231 1593; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconographiabot03reicgoog_0122.png"; bbox 0 0 1231 1617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 216 205 1039 220">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 216 205 1039 220">
+     <span class='ocr_line' id='line_1_1' title="bbox 216 205 1039 220; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 216 206 311 219; x_wconf 50' lang='lat' dir='ltr'><em>anaim.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 896 205 1039 220; x_wconf 64' lang='lat' dir='ltr'><em>stc&#39;C&#39;VJTm&#39;l</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 945 1092 994 1209">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 945 1092 994 1209">
+     <span class='ocr_line' id='line_1_2' title="bbox 945 1092 994 1209; baseline 0 408"><span class='ocrx_word' id='word_1_3' title='bbox 945 1092 994 1209; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 321 1109 358 1227">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 316 1109 358 1227">
+     <span class='ocr_line' id='line_1_3' title="bbox 321 1109 358 1227; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 321 1109 358 1227; x_wconf 58' lang='lat'><em>&lt;35</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 344 1243 358 1284">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 344 1243 358 1284">
+     <span class='ocr_line' id='line_1_4' title="bbox 344 1243 358 1284; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 345 1274 356 1284; x_wconf 61' lang='grc' dir='ltr'><em>Σ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 344 1243 358 1271; x_wconf 47' lang='grc'><em>’55</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 440 1367 815 1413">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 440 1367 815 1413">
+     <span class='ocr_line' id='line_1_5' title="bbox 440 1367 815 1413; baseline 0.003 -17"><span class='ocrx_word' id='word_1_7' title='bbox 440 1367 544 1396; x_wconf 59' lang='lat' dir='ltr'><em>(Zraesn)</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 556 1369 732 1413; x_wconf 51' lang='lat' dir='ltr'><em>ssah-[frus</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 748 1384 815 1399; x_wconf 58' lang='lat' dir='ltr'><em>lar«.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 217 1414 309 1425">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 217 1414 309 1425">
+     <span class='ocr_line' id='line_1_6' title="bbox 217 1414 309 1425; baseline 0.011 -1"><span class='ocrx_word' id='word_1_10' title='bbox 217 1414 264 1425; x_wconf 61' lang='lat' dir='ltr'><em>aum.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 274 1415 309 1425; x_wconf 32' lang='lat' dir='ltr'><em>aa*</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 881 1411 1194 1587">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 881 1411 1194 1587">
+     <span class='ocr_line' id='line_1_7' title="bbox 881 1411 1194 1587; baseline 0 30"><span class='ocrx_word' id='word_1_12' title='bbox 881 1411 1194 1587; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

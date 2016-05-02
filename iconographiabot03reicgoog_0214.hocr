@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconographiabot03reicgoog_0214.png"; bbox 0 0 1231 1617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 304 1406 319 1414">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 304 1406 319 1414">
+     <span class='ocr_line' id='line_1_1' title="bbox 304 1406 319 1414; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 304 1406 319 1414; x_wconf 67' lang='grc' dir='ltr'><em>ι</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 358 1406 776 1473">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 358 1406 776 1473">
+     <span class='ocr_line' id='line_1_2' title="bbox 358 1406 776 1473; baseline 0 -26"><span class='ocrx_word' id='word_1_2' title='bbox 358 1410 575 1473; x_wconf 54' lang='lat' dir='ltr'><em>(sadqmis</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 566 1406 736 1447; x_wconf 53' lang='grc' dir='ltr'><em>Ζῗνιιίᾶ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 752 1426 776 1441; x_wconf 77' lang='grc' dir='ltr'><em>ι</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 785 1453 1178 1578">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 785 1453 1178 1578">
+     <span class='ocr_line' id='line_1_3' title="bbox 785 1453 1178 1578; baseline 0.089 -110"><span class='ocrx_word' id='word_1_5' title='bbox 785 1456 889 1468; x_wconf 53' lang='lat' dir='ltr'><em>naam-um</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 900 1455 948 1466; x_wconf 31' lang='lat' dir='ltr'><em>adver</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 954 1457 973 1465; x_wconf 68' lang='lat'><em>&#39;¹⁶</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 978 1453 1178 1578; x_wconf 46' lang='grc' dir='ltr'><em>μ’</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconographiabot03reicgoog_0140.png"; bbox 0 0 1231 1617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 365 1396 810 1417">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 365 1396 810 1417">
+     <span class='ocr_line' id='line_1_1' title="bbox 365 1396 810 1417; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 742 1402 810 1417; x_wconf 48' lang='lat' dir='ltr'>5&amp;wa</span> <span class='ocrx_word' id='word_1_2' title='bbox 581 1396 729 1417; x_wconf 41' lang='grc' dir='ltr'>ῖξῗὶεὲἧ</span> <span class='ocrx_word' id='word_1_3' title='bbox 400 1396 563 1417; x_wconf 36' lang='grc' dir='ltr'>ωκκὸἦικὲᾚέω</span> <span class='ocrx_word' id='word_1_4' title='bbox 365 1408 387 1416; x_wconf 48' lang='grc' dir='ltr'>«Δ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 158 1417 280 1440">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 158 1417 280 1440">
+     <span class='ocr_line' id='line_1_2' title="bbox 158 1417 280 1440; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 252 1421 280 1431; x_wconf 49' lang='lat' dir='ltr'>&lt;uz</span> <span class='ocrx_word' id='word_1_6' title='bbox 246 1428 248 1430; x_wconf 96' lang='lat'>.</span> <span class='ocrx_word' id='word_1_7' title='bbox 158 1417 240 1440; x_wconf 47' lang='grc' dir='ltr'>Ἒέἓὲ)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
